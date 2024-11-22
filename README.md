@@ -17,7 +17,7 @@ tranzisztort, és a 74ls14, 74ls04 első kapu bemenete magas állapotba kerülj�
 hogy át engedje az impulzusokat a tranzisztor, a gombhoz lenyomott impulzus mennyiségnek megfelelően.
 
 
-74ls14 két kapuja simítja az impulzusokat, és a 74ls04 késleltető üzemmódba van. Kb fél másodperc a kapcsolási idő.
+74ls14 két kapuja stabilizálja az impulzusokat, és a 74ls04 késleltető üzemmódba van. Kb fél másodperc a kapcsolási idő.
 Késleltetés szükséges a nem kívánt felemeléskor keletkező impulzusok szűréséhez.
 
 74ls04 második kapuja telefon felemelése után engedélyezi a 74ls123 és a 74ls90-et. Tárcsázáskor pl ha 6-os szám
