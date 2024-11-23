@@ -41,4 +41,6 @@ Ez még bonyolítható lehetne, hogy 2 vagy 3 számjegyet lehessen tárcsázni, 
 mikrovezérlővel egyszerűbb és alkatrész takarékosabb lenne.
 
 Fontos! Az áramkörben van egy hiba, 74ls123 4-es kimenetére kell kötni a 74ls90 2-es és 3-mas lábát, a 13-mas lábát nem kell bekötni!
-
+Az áramkört ne csatlakoztassa közvetlenül a szolgáltató telefonvonalára!
+Az áramkör bizonyos részein nagyfeszültségek uralkodnak, nem vállalok felelősséget hozzáértés hiányából bekövetkezett sérülésekért vagy tűzesetekért!
+Mindenképp biztosítékkal válasszuk le a hálózatról mind a be és kimenetet!
