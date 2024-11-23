@@ -39,3 +39,6 @@ Az áramkör szerinti tárcsázás (megváltoztatható):
                     - 4-es telefont 7-es gomb aktiválja
 Ez még bonyolítható lehetne, hogy 2 vagy 3 számjegyet lehessen tárcsázni, esetleg dupla ennyi telefonnal. De ezt 
 mikrovezérlővel egyszerűbb és alkatrész takarékosabb lenne.
+
+Fontos! Az áramkörben van egy hiba, az U2B inverter kimenetéhez (ehhez csatlakozik 74ls123 3-mas lába) csatolni kell még egy invertert, hogy a telefon felemelés után 74ls90 engedélyezve legyen!
+74ls123 3-as lábának magasnak kell lennie, 74ls90 7-es lábának alacsonynak kell lennie amikor fel van véve a telefon!
